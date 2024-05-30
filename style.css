@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  height: 100vh;
+
+  background: linear-gradient(135deg, #5a79a3, #9d60a2);
+  padding: 2rem;
+  color: whitesmoke;
+}
+
+/* options */
+.options {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+/* Images */
+.agenda img {
+  height: 200px;
+  width: 200px;
+}
