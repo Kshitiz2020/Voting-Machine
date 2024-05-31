@@ -6,8 +6,6 @@
 }
 
 body {
-  height: 100vh;
-
   background: linear-gradient(135deg, #5a79a3, #9d60a2);
   padding: 2rem;
   color: whitesmoke;
